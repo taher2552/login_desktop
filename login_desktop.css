@@ -158,7 +158,8 @@
    justify-content: end;
    margin-left: 2.81rem;
    margin-bottom: 1rem;
-   /* align-items: center; */
+   cursor: pointer;
+ 
 }
 
 .login_forget_password{
